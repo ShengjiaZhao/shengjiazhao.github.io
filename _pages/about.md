@@ -23,39 +23,41 @@ Contact: sjzhao at stanford dot edu
 - Machine learning applications of information theory
 
 # Publications
+
+## Under Review
 ## Conference
 - Adaptive Antithetic Sampling for Variance Reduction <br>
 Hongyu Ren\*, <b> Shengjia Zhao\* </b>, Stefano Ermon (ICML'2019)
 
 - Learning Neural PDE Solvers with Convergence Guarantees <br>
-Tim Heish\*, <b> Shengjia Zhao\*</b>, Lucia Mirabella, Stefano Ermon (ICLR'2019)
+Jun-Ting Hsieh\*, <b> Shengjia Zhao\*</b>, Lucia Mirabella, Stefano Ermon (ICLR'2019)
 
 - Regular LDPC Construction for Sparse Hashing <br>
-Jonathan Kuck, Tri Dao, <b>Shengjia Zhao</b>, Burak Burtan, Stefano Ermon (UAI'19)
+Jonathan Kuck, Tri Dao, <b>Shengjia Zhao</b>, Burak Burtan, Stefano Ermon (UAI'2019)
 
 - Learning Controllable Fair Representations <br> 
 Jiaming Song, Pratyusha Kalluri, Aditya Grover, <b>Shengjia Zhao</b>, Stefano Ermon (AISTATS'2019)
 
-- InfoVAE: Information Maximizing Variational Autoencoders <br>
+- InfoVAE: Balancing Learning and Inference in Variational Autoencoders <br>
  <b>Shengjia Zhao</b>, Jiaming Song, Stefano Ermon <a href="https://arxiv.org/abs/1706.02262">[arXiv]</a> (AAAI'2019)
 
 - Bias and Generalization in Deep Generative Models: An Empirical Study <br>
-<b>Shengjia Zhao\*</b>, Hongyu Ren*, Arianna Yuan, Jiaming Song, Noah Goodman, Stefano Ermon (NIPS'2018 spotlight) 
+<b>Shengjia Zhao\*</b>, Hongyu Ren*, Arianna Yuan, Jiaming Song, Noah Goodman, Stefano Ermon (NeurIPS'2018 spotlight) 
 
 - Amortized Inference Regularization <br>
-Rui Shu, Hung H Bai, <b>Shengjia Zhao</b>, Stefano Ermon (NIPS'18)
+Rui Shu, Hung H Bai, <b>Shengjia Zhao</b>, Stefano Ermon (NeurIPS'2018)
 
 - A Lagrangian Perspective on Latent Variable Generative Models <br>
  <b>Shengjia Zhao</b>, Jiaming Song, Stefano Ermon (UAI'2018 oral) <a href="https://arxiv.org/abs/1806.06514">[arXiv]</a> 
 
 - A-NICE-MC: Adversarial Training for MCMC <br> 
-Jiaming Song, <b>Shengjia Zhao</b>, Stefano Ermon (NIPS'2017) <a href="https://arxiv.org/abs/1706.07561">[arXiv]</a> 
+Jiaming Song, <b>Shengjia Zhao</b>, Stefano Ermon (NeurIPS'2017) <a href="https://arxiv.org/abs/1706.07561">[arXiv]</a> 
 
 - Learning Hierarchical Features from Generative Models <br> 
  <b>Shengjia Zhao</b>, Jiaming Song, Stefano Ermon (ICML'2017) <a href="https://arxiv.org/abs/1702.08396">[arXiv]</a> <a href="https://github.com/ermongroup/Variational-Ladder-Autoencoder">[code]</a> 
 
 - Adaptive Concentration Inequalities for Sequential Decision Problems <br>
-<b>Shengjia Zhao</b>, Enze Zhou, Ashish Sabharwal, Stefano Ermon (NIPS'2016) <a href="https://papers.nips.cc/paper/6493-adaptive-concentration-inequalities-for-sequential-decision-problems.pdf">[pdf]</a>
+<b>Shengjia Zhao</b>, Enze Zhou, Ashish Sabharwal, Stefano Ermon (NeurIPS'2016) <a href="https://papers.nips.cc/paper/6493-adaptive-concentration-inequalities-for-sequential-decision-problems.pdf">[pdf]</a>
 
 - Closing the Gap Between Short and Long XORs for Model Counting <br>
 <b>Shengjia Zhao</b>, Sorathan Chaturapruek, Ashish Sabharwal, Stefano Ermon (AAAI'2016) <a href="https://arxiv.org/abs/1512.08863">[arXiv]</a> 
@@ -72,5 +74,6 @@ Jiaming Song, <b>Shengjia Zhao</b>, Stefano Ermon (NIPS'2017) <a href="https://a
 
 ## Professional Service
 - Reviewer: NeurIPS (2017, 2019), ICLR (2019), ICML (2019)
+- Organizer: Information Theory and Machine Learning (ITML) Workshop (NeurIPS'2019)
 - Teaching: CS228 (Head TA)
 
