@@ -24,7 +24,8 @@ Contact: sjzhao at stanford dot edu
 
 # Publications
 
-## Under Review
+## Under Work
+
 ## Conference
 - Adaptive Antithetic Sampling for Variance Reduction <br>
 Hongyu Ren\*, <b> Shengjia Zhao\* </b>, Stefano Ermon (ICML'2019)
