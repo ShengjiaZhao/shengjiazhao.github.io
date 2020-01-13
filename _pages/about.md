@@ -13,10 +13,10 @@ I am a 4-th year PhD student at Stanford Computer Science advised by <a href="ht
 Contact: sjzhao at stanford dot edu
 
 # Research Interests 
-(Ranked by the amount of time I spend thinking about each topic, as of June 2019)
+(Ranked by the amount of time I spend thinking about each topic, as of Jan 2020)
 
-- Uncertainty quantification, Calibration
-- Individual risk, Operational interpretations for probability
+- Variational definitions of information and machine learning quantities
+- Individual risk, Operational interpretations for probability and forecast, Calibration
 - Deep generative models, high dimensional distribution modeling, representation learning
 - Active learning and online learning
 - Adversarial examples
@@ -25,11 +25,13 @@ Contact: sjzhao at stanford dot edu
 # Publications
 
 ## Recent Work
+- A Information Theoretic Framework for Adversarial Defense and Attack 
 
+- Individual Calibration by Randomized Forecast 
 
 ## Conference
 - A framework for Sample Efficient Interval Estimation with Control Variates <br>
-<b>Shengjia Zhao </b>, Christopher Yeh, Stefano Ermon (AISTATS'2020) 
+<b>Shengjia Zhao</b>, Christopher Yeh, Stefano Ermon (AISTATS'2020) 
 
 - Permutation Invariant Graph Generation via Score-Based Generative Modeling <br>
 Chenhao Niu, Yang Song, Jiaming Song, <b> Shengjia Zhao </b>, Aditya Grover, Stefano Ermon (AISTATS'2020) 
