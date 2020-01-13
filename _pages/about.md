@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at Stanford Computer Science advised by <a href="http://cs.stanford.edu/~ermon/">Stefano Ermon</a>. Before coming to stanford, I completed my undergrad at Tsinghua University, where I worked with <a href="http://ml.cs.tsinghua.edu.cn/~jun/index.shtml">Jun Zhu</a>. 
+I am a 4-th year PhD student at Stanford Computer Science advised by <a href="http://cs.stanford.edu/~ermon/">Stefano Ermon</a>. Before coming to stanford, I completed my undergrad at Tsinghua University.
 
 Contact: sjzhao at stanford dot edu
 
@@ -23,6 +23,19 @@ Contact: sjzhao at stanford dot edu
 - Machine learning applications of information theory
 
 # Publications
+
+## Recent Work
+
+
+## Conference
+- A framework for Sample Efficient Interval Estimation with Control Variates <br>
+<b>Shengjia Zhao </b>, Christopher Yeh, Stefano Ermon (AISTATS'2020) 
+
+- Permutation Invariant Graph Generation via Score-Based Generative Modeling <br>
+Chenhao Niu, Yang Song, Jiaming Song, <b> Shengjia Zhao </b>, Aditya Grover, Stefano Ermon (AISTATS'2020) 
+
+- A Theory of Usable Information under Computational Constraints <br>
+Yilun Xu, <b> Shengjia Zhao </b>, Jiaming Song, Russell Stewart, Stefano Ermon (ICLR'2020 <font color='red'>Oral</font>)
 
 - Adaptive Antithetic Sampling for Variance Reduction <br>
 Hongyu Ren\*, <b> Shengjia Zhao\* </b>, Stefano Ermon (ICML'2019)
@@ -40,13 +53,13 @@ Jiaming Song, Pratyusha Kalluri, Aditya Grover, <b>Shengjia Zhao</b>, Stefano Er
  <b>Shengjia Zhao</b>, Jiaming Song, Stefano Ermon <a href="https://arxiv.org/abs/1706.02262">[arXiv]</a> (AAAI'2019)
 
 - Bias and Generalization in Deep Generative Models: An Empirical Study <br>
-<b>Shengjia Zhao\*</b>, Hongyu Ren*, Arianna Yuan, Jiaming Song, Noah Goodman, Stefano Ermon (NeurIPS'2018 spotlight) 
+<b>Shengjia Zhao\*</b>, Hongyu Ren*, Arianna Yuan, Jiaming Song, Noah Goodman, Stefano Ermon (NeurIPS'2018 <font color='red'> Spotlight </font>) 
 
 - Amortized Inference Regularization <br>
 Rui Shu, Hung H Bai, <b>Shengjia Zhao</b>, Stefano Ermon (NeurIPS'2018)
 
 - A Lagrangian Perspective on Latent Variable Generative Models <br>
- <b>Shengjia Zhao</b>, Jiaming Song, Stefano Ermon (UAI'2018 oral) <a href="https://arxiv.org/abs/1806.06514">[arXiv]</a> 
+ <b>Shengjia Zhao</b>, Jiaming Song, Stefano Ermon (UAI'2018 <font color='red'>Oral</font>) <a href="https://arxiv.org/abs/1806.06514">[arXiv]</a> 
 
 - A-NICE-MC: Adversarial Training for MCMC <br> 
 Jiaming Song, <b>Shengjia Zhao</b>, Stefano Ermon (NeurIPS'2017) <a href="https://arxiv.org/abs/1706.07561">[arXiv]</a> 
@@ -71,7 +84,7 @@ Jiaming Song, <b>Shengjia Zhao</b>, Stefano Ermon (NeurIPS'2017) <a href="https:
 - Google Excellence Scholarship (2015) 
 
 ## Professional Service
-- Reviewer: NeurIPS (2017, 2019), ICLR (2019), ICML (2019)
+- Reviewer: NeurIPS (2017, 2019), ICLR (2019, 2020), ICML (2019, 2020)
 - Organizer: Information Theory and Machine Learning (ITML) Workshop (NeurIPS'2019)
 - Teaching: CS228 (Head TA)
 
