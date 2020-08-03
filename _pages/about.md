@@ -30,6 +30,12 @@ Contact: sjzhao at stanford dot edu
 - Individual Calibration by Randomized Forecast 
 
 ## Conference
+- Individual Calibration with Randomized Forecast <br>
+<b>Shengjia Zhao</b>, Tengyu Man, Stefano Ermon <a href="https://arxiv.org/abs/2006.10288">[arXiv]</a> (ICML'2020)
+
+- Cross domain imitation learning <br>
+Kun Ho Kim, Yihong Gu, Jiaming Song, <b>Shengjia Zhao</b>, Stefano Ermon (ICML'2020)
+
 - A framework for Sample Efficient Interval Estimation with Control Variates <br>
 <b>Shengjia Zhao</b>, Christopher Yeh, Stefano Ermon (AISTATS'2020) 
 
