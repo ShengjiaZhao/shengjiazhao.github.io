@@ -92,7 +92,7 @@ Jiaming Song, <b>Shengjia Zhao</b>, Stefano Ermon (NeurIPS'2017) <a href="https:
 - Google Excellence Scholarship (2015) 
 
 ## Professional Service
-- Reviewer: NeurIPS (2017, 2019), ICLR (2019, 2020), ICML (2019, 2020)
+- Reviewer: NeurIPS (2017, 2019, 2020), ICLR (2019, 2020), ICML (2019, 2020)
 - Organizer: Information Theory and Machine Learning (ITML) Workshop (NeurIPS'2019)
 - Teaching: CS228 (Head TA)
 
