@@ -13,23 +13,16 @@ I am a 4-th year PhD student at Stanford Computer Science advised by <a href="ht
 Contact: sjzhao at stanford dot edu
 
 # Research Interests 
-(Ranked by the amount of time I spend thinking about each topic, as of Jan 2020)
+(Ranked by the amount of time I spend thinking about each topic, as of Jul 2020)
 
+- Individual risk, Interpretations for probability and forecast, Calibration
 - Variational definitions of information and machine learning quantities
-- Individual risk, Operational interpretations for probability and forecast, Calibration
 - Deep generative models, high dimensional distribution modeling, representation learning
 - Active learning and online learning
-- Adversarial examples
-- Machine learning applications of information theory
+- Information theory
 
 # Publications
 
-## Recent Work
-- A Information Theoretic Framework for Adversarial Defense and Attack 
-
-- Individual Calibration by Randomized Forecast 
-
-## Conference
 - Individual Calibration with Randomized Forecast <br>
 <b>Shengjia Zhao</b>, Tengyu Man, Stefano Ermon <a href="https://arxiv.org/abs/2006.10288">[arXiv]</a> (ICML'2020)
 
