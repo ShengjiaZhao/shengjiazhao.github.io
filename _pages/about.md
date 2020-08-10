@@ -24,7 +24,7 @@ Contact: sjzhao at stanford dot edu
 # Publications
 
 - Individual Calibration with Randomized Forecast <br>
-<b>Shengjia Zhao</b>, Tengyu Man, Stefano Ermon <a href="https://arxiv.org/abs/2006.10288">[arXiv]</a> (ICML'2020)
+<b>Shengjia Zhao</b>, Tengyu Ma, Stefano Ermon <a href="https://arxiv.org/abs/2006.10288">[arXiv]</a> (ICML'2020)
 
 - Cross domain imitation learning <br>
 Kun Ho Kim, Yihong Gu, Jiaming Song, <b>Shengjia Zhao</b>, Stefano Ermon (ICML'2020)
