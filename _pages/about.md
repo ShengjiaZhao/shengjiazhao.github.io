@@ -57,10 +57,10 @@ Chenhao Niu, Yang Song, Jiaming Song, <b> Shengjia Zhao</b>, Aditya Grover, Stef
 <b>Shengjia Zhao\*</b>, Hongyu Ren*, Arianna Yuan, Jiaming Song, Noah Goodman, Stefano Ermon [[arXiv]](https://arxiv.org/abs/1811.03259) (NeurIPS'2018 <font color='red'> Spotlight</font>) 
 
 - A Lagrangian Perspective on Latent Variable Generative Models <br>
- <b>Shengjia Zhao</b>, Jiaming Song, Stefano Ermon (UAI'2018 <font color='red'>Oral</font>) <a href="https://arxiv.org/abs/1806.06514">[arXiv]</a> 
+ <b>Shengjia Zhao</b>, Jiaming Song, Stefano Ermon <a href="https://arxiv.org/abs/1806.06514">[arXiv]</a> (UAI'2018 <font color='red'>Oral</font>)
 
  - Learning Hierarchical Features from Generative Models <br>
- <b>Shengjia Zhao</b>, Jiaming Song, Stefano Ermon (ICML'2017) <a href="https://arxiv.org/abs/1702.08396">[arXiv]</a> 
+ <b>Shengjia Zhao</b>, Jiaming Song, Stefano Ermon <a href="https://arxiv.org/abs/1702.08396">[arXiv]</a> (ICML'2017)
 
 ## Improving Classical Algorithms with Learning
 
@@ -71,7 +71,7 @@ Hongyu Ren\*, <b> Shengjia Zhao\* </b>, Stefano Ermon [[paper]](http://proceedin
 Jun-Ting Hsieh\*, <b> Shengjia Zhao\*</b>, Lucia Mirabella, Stefano Ermon [[arXiv]](https://arxiv.org/abs/1906.01200) (ICLR'2019)
 
 - A-NICE-MC: Adversarial Training for MCMC <br>
-Jiaming Song, <b>Shengjia Zhao</b>, Stefano Ermon (NeurIPS'2017) <a href="https://arxiv.org/abs/1706.07561">[arXiv]</a> <a href="https://github.com/ermongroup/Variational-Ladder-Autoencoder">[code]</a> 
+Jiaming Song, <b>Shengjia Zhao</b>, Stefano Ermon <a href="https://arxiv.org/abs/1706.07561">[arXiv]</a> <a href="https://github.com/ermongroup/Variational-Ladder-Autoencoder">[code]</a> (NeurIPS'2017)
 
 ## Miscellaneous Topics 
 
@@ -91,10 +91,10 @@ Jiaming Song, Pratyusha Kalluri, Aditya Grover, <b>Shengjia Zhao</b>, Stefano Er
 Rui Shu, Hung H Bai, <b>Shengjia Zhao</b>, Stefano Ermon [[arXiv]](https://arxiv.org/abs/1805.08913) (NeurIPS'2018)
 
 - Adaptive Concentration Inequalities for Sequential Decision Problems <br>
-<b>Shengjia Zhao</b>, Enze Zhou, Ashish Sabharwal, Stefano Ermon (NeurIPS'2016) <a href="https://papers.nips.cc/paper/6493-adaptive-concentration-inequalities-for-sequential-decision-problems.pdf">[pdf]</a>
+<b>Shengjia Zhao</b>, Enze Zhou, Ashish Sabharwal, Stefano Ermon <a href="https://papers.nips.cc/paper/6493-adaptive-concentration-inequalities-for-sequential-decision-problems.pdf">[pdf]</a> (NeurIPS'2016)
 
 - Closing the Gap Between Short and Long XORs for Model Counting <br>
-<b>Shengjia Zhao</b>, Sorathan Chaturapruek, Ashish Sabharwal, Stefano Ermon (AAAI'2016) <a href="https://arxiv.org/abs/1512.08863">[arXiv]</a> 
+<b>Shengjia Zhao</b>, Sorathan Chaturapruek, Ashish Sabharwal, Stefano Ermon <a href="https://arxiv.org/abs/1512.08863">[arXiv]</a> (AAAI'2016)
 
 # Awards and Fellowships
 - JP Morgan PhD Fellowship (2019) 
