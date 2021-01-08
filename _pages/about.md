@@ -8,13 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5-th year PhD student at Stanford Computer Science advised by <a href="http://cs.stanford.edu/~ermon/">Stefano Ermon</a>. Before coming to stanford, I completed my undergrad at Tsinghua University.
+I am a 5-th year PhD student at Stanford Computer Science advised by <a href="http://cs.stanford.edu/~ermon/">Stefano Ermon</a>. Before coming to Stanford, I completed my undergrad at Tsinghua University. 
 
-Contact: sjzhao at stanford dot edu
-
-<br><br>
-
-# Research Interests 
+### Research Interests 
 (Ranked by the amount of time I spend thinking about each topic, as of Jan 2021)
 
 - Individual risk, interpretations for probability and forecast, calibration
@@ -23,7 +19,9 @@ Contact: sjzhao at stanford dot edu
 - Active learning and online learning
 - Information theory
 
-<br><br>
+Contact: sjzhao at stanford dot edu
+
+<br><br><br>
 
 # Publications by Topics
 
@@ -100,7 +98,7 @@ Rui Shu, Hung H Bai, <b>Shengjia Zhao</b>, Stefano Ermon [[arXiv]](https://arxiv
 - Closing the Gap Between Short and Long XORs for Model Counting <br>
 <b>Shengjia Zhao</b>, Sorathan Chaturapruek, Ashish Sabharwal, Stefano Ermon <a href="https://arxiv.org/abs/1512.08863">[arXiv]</a> (AAAI'2016)
 
-<br><br>
+<br><br><br>
 
 # Awards and Fellowships
 - JP Morgan PhD Fellowship (2019) 
@@ -108,7 +106,7 @@ Rui Shu, Hung H Bai, <b>Shengjia Zhao</b>, Stefano Ermon [[arXiv]](https://arxiv
 - Qualcomm Scholarship (2016) 
 - Google Excellence Scholarship (2015) 
 
-<br><br>
+<br><br><br>
 
 # Teaching and Services
 - Reviewer: NeurIPS (2017, 2019, 2020), ICLR (2019, 2020, 2021), ICML (2019, 2020)
