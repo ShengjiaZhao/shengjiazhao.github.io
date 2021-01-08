@@ -65,7 +65,7 @@ Chenhao Niu, Yang Song, Jiaming Song, <b> Shengjia Zhao</b>, Aditya Grover, Stef
 ## Improving Classical Algorithms with Learning
 
 - Adaptive Antithetic Sampling for Variance Reduction <br>
-Hongyu Ren\*, <b> Shengjia Zhao\* </b>, Stefano Ermon [[paper]](http://proceedings.mlr.press/v97/ren19b.html) (ICML'2019)
+Hongyu Ren\*, <b> Shengjia Zhao\*</b>, Stefano Ermon [[paper]](http://proceedings.mlr.press/v97/ren19b.html) (ICML'2019)
 
 - Learning Neural PDE Solvers with Convergence Guarantees <br>
 Jun-Ting Hsieh\*, <b> Shengjia Zhao\*</b>, Lucia Mirabella, Stefano Ermon [[arXiv]](https://arxiv.org/abs/1906.01200) (ICLR'2019)
