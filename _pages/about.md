@@ -113,3 +113,23 @@ Rui Shu, Hung H Bai, <b>Shengjia Zhao</b>, Stefano Ermon [[arXiv]](https://arxiv
 - Organizer: Information Theory and Machine Learning (ITML) Workshop (NeurIPS'2019)
 - Teaching: CS228 Head TA (2019 and 2021)
 
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-100695843-1"></script>
+
+<script>
+
+ window.dataLayer = window.dataLayer || [];
+
+ function gtag(){dataLayer.push(arguments);}
+
+ gtag('js', new Date());
+
+
+
+ gtag('config', 'UA-100695843-1');
+
+</script>
+
