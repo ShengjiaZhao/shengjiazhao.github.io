@@ -21,7 +21,7 @@ Contact: sjzhao at stanford dot edu
 - Active learning and online learning
 - Information theory
 
-# Publications
+# Publications by Topics
 
 ## Uncertainty Quantification and Trustworthy Machine Learning
 
