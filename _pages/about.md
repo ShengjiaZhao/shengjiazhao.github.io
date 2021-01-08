@@ -25,7 +25,7 @@ Contact: sjzhao at stanford dot edu
 
 ## Uncertainty Quantification and Trustworthy Machine Learning
 
-- Right Decisions from Wrong Predictions: A Mechanism Design Alternative to Individual Calibration
+- Right Decisions from Wrong Predictions: A Mechanism Design Alternative to Individual Calibration <br>
 <b>Shengjia Zhao</b>, Stefano Ermon <a href="https://arxiv.org/abs/2011.07476">[arXiv]</a>
 
 - Individual Calibration with Randomized Forecast <br>
@@ -36,7 +36,7 @@ Contact: sjzhao at stanford dot edu
 
 ## Information Theory and Decision Theory
 
-- H-divergence: A Decision-Theoretic Probability Discrepancy Measure
+- H-divergence: A Decision-Theoretic Probability Discrepancy Measure <br>
 <b> Shengjia Zhao</b>\*, Abhishek Sinha\*, Yutong He\*, Aidan Perreault, Jiaming Song, Stefano Ermon  <a href="https://openreview.net/forum?id=uBHs6zpY4in&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2021%2FConference%2FAuthors%23your-submissions)">[Openreview] </a>
 
 - A Theory of Usable Information under Computational Constraints <br>
