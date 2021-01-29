@@ -28,7 +28,7 @@ Contact: sjzhao at stanford dot edu
 ## Uncertainty Quantification and Trustworthy Machine Learning
 
 - Right Decisions from Wrong Predictions: A Mechanism Design Alternative to Individual Calibration <br>
-<b>Shengjia Zhao</b>, Stefano Ermon <a href="https://arxiv.org/abs/2011.07476">[arXiv]</a>
+<b>Shengjia Zhao</b>, Stefano Ermon <a href="https://arxiv.org/abs/2011.07476">[arXiv]</a> (AISTATS'2021 <font color='red'>Oral</font>)
 
 - Individual Calibration with Randomized Forecast <br>
 <b>Shengjia Zhao</b>, Tengyu Ma, Stefano Ermon <a href="https://arxiv.org/abs/2006.10288">[arXiv]</a> (ICML'2020)
@@ -39,7 +39,7 @@ Contact: sjzhao at stanford dot edu
 ## Information Theory and Decision Theory
 
 - H-divergence: A Decision-Theoretic Probability Discrepancy Measure <br>
-<b> Shengjia Zhao</b>\*, Abhishek Sinha\*, Yutong He\*, Aidan Perreault, Jiaming Song, Stefano Ermon <a href="https://openreview.net/forum?id=uBHs6zpY4in&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2021%2FConference%2FAuthors%23your-submissions)">[openreview]</a>
+<b> Shengjia Zhao</b>\*, Abhishek Sinha\*, Yutong He\*, Aidan Perreault, Jiaming Song, Stefano Ermon 
 
 - A Theory of Usable Information under Computational Constraints <br>
   Yilun Xu, <b> Shengjia Zhao</b>, Jiaming Song, Russell Stewart, Stefano Ermon [[arXiv]](https://arxiv.org/abs/2002.10689) (ICLR'2020 <font color='red'>Oral</font>)
@@ -47,7 +47,7 @@ Contact: sjzhao at stanford dot edu
 ## Generative Models
 
  - Improved Autoregressive Modeling with Distribution Smoothing <br>
- Chenlin Meng, Jiaming Song, Yang Song, <b>Shengjia Zhao</b>, Stefano Ermon [[openreview]](https://openreview.net/forum?id=rJA5Pz7lHKb&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2021%2FConference%2FAuthors%23your-submissions))
+ Chenlin Meng, Jiaming Song, Yang Song, <b>Shengjia Zhao</b>, Stefano Ermon (ICLR'2021 <font color='red'>Oral</font>) [openreview](https://openreview.net/forum?id=rJA5Pz7lHKb&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2021%2FConference%2FAuthors%23your-submissions))
 
  - Permutation Invariant Graph Generation via Score-Based Generative Modeling <br>
 Chenhao Niu, Yang Song, Jiaming Song, <b> Shengjia Zhao</b>, Aditya Grover, Stefano Ermon [[arXiv]](https://arxiv.org/abs/2003.00638) (AISTATS'2020) 
