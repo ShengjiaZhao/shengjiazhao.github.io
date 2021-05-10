@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5-th year PhD student at Stanford Computer Science advised by <a href="http://cs.stanford.edu/~ermon/">Stefano Ermon</a>. I study trustworthy machine learning and uncertainty quantification. My key research question is how a forecaster can guarantee or certify the quality of its predictions, such that users can confidently rely on the predictions for high stakes decision making. I tackle this problem with a variety of angles, including online learning, game theory, conformal prediction, finance/insurance, generative models, and causal inference. 
+I am a 5-th year PhD student at Stanford Computer Science advised by <a href="http://cs.stanford.edu/~ermon/">Stefano Ermon</a>. I study trustworthy machine learning and uncertainty quantification. My key research question is how a forecaster can guarantee or certify the quality of its predictions, such that users can confidently rely on the predictions for high stakes decision making. I tackle this problem from a variety of angles, including online learning, game theory, conformal prediction, finance/insurance, generative models, and causal inference. 
 I am broadly interested in other applications of uncertainty quantification, such as Bayesian optimization and high dimensional probabilistic models. 
 
 ### Research Interests 
