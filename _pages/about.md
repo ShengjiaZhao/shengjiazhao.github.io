@@ -109,7 +109,7 @@ Rui Shu, Hung H Bai, <b>Shengjia Zhao</b>, Stefano Ermon [[arXiv]](https://arxiv
 <br><br>
 
 # Teaching and Services
-- Reviewer: NeurIPS (2017, 2019, 2020), ICLR (2019, 2020, 2021), ICML (2019, 2020)
+- Reviewer: NeurIPS (2017, 2019, 2020, 2021), ICLR (2019, 2020, 2021), ICML (2019, 2020, 2021)
 - Organizer: Information Theory and Machine Learning (ITML) Workshop (NeurIPS'2019)
 - Teaching: CS228 Head TA (2019 and 2021)
 
