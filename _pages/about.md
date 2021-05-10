@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5-th year PhD student at Stanford Computer Science advised by <a href="http://cs.stanford.edu/~ermon/">Stefano Ermon</a>. Before coming to Stanford, I completed my undergrad at Tsinghua University. 
+I am a 5-th year PhD student at Stanford Computer Science advised by <a href="http://cs.stanford.edu/~ermon/">Stefano Ermon</a>. I study trustworthy machine learning and uncertainty quantification. My key research question is how a forecaster can guarantee or certify the quality of its predictions, such that users can confidently rely on the predictions for high stakes decision making. I tackle this problem with a variety of angles, including online learning, game theory, conformal prediction, finance/insurance, generative models, and causal inference. 
+I am broadly interested in other applications of uncertainty quantification, such as Bayesian optimization and high dimensional probabilistic models. 
 
 ### Research Interests 
-(Ranked by the amount of time I spend thinking about each topic, as of Jan 2021)
+(Ranked by the amount of time I spend thinking about each topic, as of Apr 2021)
 
-- Individual risk, interpretations for probability and forecast, calibration
+- Uncertainty quantification, risk and calibration
+- Deep generative models, high dimensional distribution modeling
+- Active learning and Bayesian optimization 
 - Variational definitions of information and machine learning quantities
-- Deep generative models, high dimensional distribution modeling, representation learning
-- Active learning and online learning
-- Information theory
 
 Contact: sjzhao at stanford dot edu
 
